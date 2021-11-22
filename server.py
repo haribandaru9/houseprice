@@ -43,6 +43,6 @@ def result():
             s='not possible'
 
             
-        return render_template("index.html", result=s+' {}'.format(result))
+        return flask.render_template("index.html", result=s+' {}'.format(result))
 if __name__=="__main__":
     app.run()
