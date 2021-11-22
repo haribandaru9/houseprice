@@ -37,14 +37,14 @@ templates
 <h3> 3. Open Heroku clock create new and select app</h3>
 <p> Give a name to your app and create</p>
 <h3> 4. Connect to github and select Your Repo.</h3>
-<img src='images/1.png'>
+
 
 
 <p> Please Refer the Following Structure </p>
-<img src='images/3.PNG'>
+
 
 <h3>4 . Click Deploy Branch </h3>
-<img src='images/2.png'>
+
 
 <p> A Link Will be Generated after sucessful Deployment like this <a href= https://santhosh12.herokuapp.com/
  ' > https://santhosh12.herokuapp.com</a> </p>
